@@ -1,5 +1,4 @@
 function solution(n, t) {
-    var answer = n * 2 ** t;
-  return answer;
+    var answer = 0;
+    return answer;
 }
-solution(2,10)
